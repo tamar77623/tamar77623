@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tamar 👋
 
-<!--
-**tamar77623/tamar77623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer who enjoys building practical and user-friendly web applications.
 
-Here are some ideas to get you started:
+I'm currently developing my skills in:
+- HTML
+- CSS
+- JavaScript
+- Python
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming, continuous learning, and creating projects that solve real-world problems.
+
+My long-term goal is to pursue a career in software development in Germany.
+
+Thanks for visiting my profile!
